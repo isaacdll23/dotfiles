@@ -1,4 +1,4 @@
-cp ~/.zshrc ~/.dotfiles/zshrc
+cp ~/.zshrc ~/.dotfiles/zsh
 cp ~/.vimrc ~/.dotfiles/vim
 
 git add .
